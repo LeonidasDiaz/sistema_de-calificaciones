@@ -33,5 +33,4 @@ Aplicación desarrollada en **Python con Streamlit** que permite al coordinador 
 
 ### 1. Clonar el repositorio (opcional)
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/LeonidasDiaz/sistema_de-calificaciones
